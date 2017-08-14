@@ -1,0 +1,662 @@
+[
+   {
+      "question":"1. Who in the opinion of reformed theology should receive baptism?",
+      "answers":[
+         "Only infants",
+         "Elderly members of the church",
+         "Church members with a believable profession of faith in Christ"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"2. How was baptism in the New Testament performed?",
+      "answers":[
+         "Full immersion of the whole body in water",
+         "Half immersion of lower torso",
+         "Anointing with oil"
+      ],
+      "correctIndex":0,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"3. What is baptism meant to symbolize?",
+      "answers":[
+         "A deep connection with the Holy Spirit",
+         "Death to an old life and rising to a new life in Christ",
+         "The beginning of a the Christian life"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"4. What argument is given in support of infant baptism?",
+      "answers":[
+         "To make sure that infants go to heaven in case of death",
+         "As an example to the church of how to start on the right footing",
+         "To adopt infants into the community of believers"
+      ],
+      "correctIndex”:2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"5. Who instituted the Lord's supper?",
+      "answers":[
+         "The first Pope",
+         "Jesus Christ",
+         "The Disciples of Jesus"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"6. Who in the Roman Catholic Church is allowed to lead in offering Lord's Supper?",
+      "answers":[
+         "Only the Pope",
+         "The acting priest",
+         "A member of the flock"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"7. What Bible verse serves as evidence of the institution of the Lord's supper?",
+      "answers":[
+         "Matthew 26:26-29",
+         "Ephesians 3:1",
+         "Jude 1:1"
+      ],
+      "correctIndex":0,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"8. How often should the Lord's supper be celebrated?",
+      "answers":[
+         "On Easter Day",
+         "Only on Christmas Day",
+         "Often as possible throughout the Christian life"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"9. What verse in the Bible indicates that only priests ought to officiate at the Lord's supper?",
+      "answers":[
+         "1 John 1:2",
+         "1 Corinthians 10:2",
+         "None of the above"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"10. What does the term believers baptism refer to?",
+      "answers":[
+         "The baptism of those who support the Christian faith",
+         "The baptism of those with a believable profession of faith in Christ",
+         "The baptism of those born to Christian parents"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"11. According to the Bible, what does an individual have to do in order to become a priest?",
+      "answers":[
+         "They have to attend seminary school",
+         "They have to be regenerate believers in Christ",
+         "They have to be elders in the Church"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"12. Why do we die?",
+      "answers":[
+         "Because it is the only means to getting to heaven",
+         "Because Jesus died too as an example to us",
+         "Because Adam and Eve disobeyed God"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"13. Why is the doctrine of purgatory wrong?",
+      "answers":[
+         "It denies the finished work of Christ on the Cross",
+         "It allows entry into heaven of non-Christians",
+         "It allows for undue suffering for sinners"
+      ],
+      "correctIndex":0,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"14. Which one of the following is accepted by reformed teaching as a sacrament?",
+      "answers":[
+         "Penance",
+         "Eucharsit",
+         "Confirmation"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"15. Who may partake of the Lord's supper?",
+      "answers":[
+         "Only the clergy",
+         "Any regenerate Christian",
+         "Only elders in the church"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"16. If you are not baptised but are a regenerate Christian is it okay to partake of the Lord's supper?",
+      "answers":[
+         "Yes",
+         "No",
+         "It depends on the Priest"
+      ],
+      "correctIndex":0,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"17. According to Ott, what replaces the personal faith of the baptized infant?",
+      "answers":[
+         "The faith of the church",
+         "The faith of the acting ordained priest",
+         "The faith of the Pope"
+      ],
+      "correctIndex":0,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"18. Who does Ott consider as qualified to baptize?",
+      "answers":[
+         "Close family of the recipient",
+         "An ordained priest",
+         "Any member of the congregation"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"19. Why is the view that baptism can be offered to infants of believing parents called covenant baptism?",
+      "answers":[
+         "Because it is offered to lead to infants becoming covenant members of the church",
+         "Because it causes members of the church to feel closer to each other",
+         "Because it is based on regarding infants as members of God’s covenant community"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"20. What statement does not agreee with what the Lord's supper symbolises?",
+      "answers":[
+         "It symbolises the death of Christ",
+         "It symbolises the Christian's union with Christ in Christ's death on the cross",
+         "It symbolises that the Christian is free of sin"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"21. What does transubstantiation mean?",
+      "answers":[
+         "It is the first miraculous act by Christ in which he turned water into wine",
+         "It is the act of God when he made the earth out of nothing",
+         "It is the transformation of the wine and bread into the blood and body of Christ during holy communion"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"22. According to the Roman Catholic Church, does the eucharist during mass account for a real single act of sacrifice by Christ?",
+      "answers":[
+         "Yes",
+         "No",
+         "Maybe"
+      ],
+      "correctIndex":0,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"23. According to the Roman Catholic Church, can the eucharist during mass be offered for those in purgatory?",
+      "answers":[
+         "Yes",
+         "No",
+         "Maybe"
+      ],
+      "correctIndex":0,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"24. What argument below can be used to discount the propitiatory act of Christ during the eucharist?",
+      "answers":[
+         "Paul in 1 Thessalonians 5:17 urges Christians to pray without ceasing",
+         "The writer of Hebrews says that Christ was offered once for the sins of many",
+         "Jesus says, 'And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever."
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"25. What Christian denomination believes in consubstantiation?",
+      "answers":[
+         "Baptist Church",
+         "Lutheran Church",
+         "Seventh Day Adventist Church"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"26. What statement below can be used to discount consubstatiation?",
+      "answers":[
+         "Jesus's body rose up to heaven and will return at the end of time",
+         "The Holy Spirit does not possess a physical body",
+         "Jesus's human nature is prevalent throughout nature"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"27. When would a regenerate Christian refrain from partaking of the Lord's supper?",
+      "answers":[
+         "Never",
+         "After sinning",
+         "If self-examination reveals disunity with other church members"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"28. For the Christian what are the implications of death?",
+      "answers":[
+         "It is an act of being more like Christ and sharing in His earthly suffering",
+         "It proves that we are not equal to God",
+         "It is the punishment for our sin here on earth"
+      ],
+      "correctIndex":0,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"29. Which of the scriptural references below indicates the method of baptism in the New Testament?",
+      "answers":[
+         "John 3:16",
+         "Colossians 2:1",
+         "Mark 1:10"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"30. What verse below provides evidence in support of a reformed view of who should receive baptism?",
+      "answers":[
+         "John 3:10",
+         "Titus 1:9",
+         "Acts 2:41"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"31. Why do some protestant groups (esp. Baptists) prefer to refer to baptism and the Lord’s Supper as ordinances rather than sacraments?",
+      "answers":[
+         "Because Christ referred to them as ordinances",
+         "Because sacraments is an outdated word",
+         "Because the term sacrament as used by the Roman Catholic Church refers to a means of grace dependent on the recipient"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"32. According to Ott, in what way does the “baptismal character” imputed by the act of baptism on the recipient make one worthy of being considered as regenerated?",
+      "answers":[
+         "It makes the recipient pure in the eyes of the congregation",
+         "It ensures that future descendants of the recipient are believers",
+         "Because somehow the “baptismal character” allows one to be incorporated into the mystical body of Christ"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"33. What statement below best captures Ludwig Ott’s interpretation of what baptism essentially symbolize?",
+      "answers":[
+         "It is a means of washing away of sin",
+         "It is means of initiating a new Christian into the church",
+         "It signifies a spiritual closeness to Christ"
+      ],
+      "correctIndex":0,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"34. How does the teaching/belief that sacramental objective efficacy overrides the subjective faith disposition cause an error in the understanding of the sacraments?",
+      "answers":[
+         "It leads to overuse of the sacramental rites",
+         "It claims that the inherent nature and attributes associated with the sacramental rites impart saving grace",
+         "It gives too much power to priest"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"35. What does the term ex opere operato mean in regard to the sacraments?",
+      "answers":[
+         "That the priest may perform the sacraments outside of a church setting",
+         "That a non-member of the church can perform the sacraments",
+         "That the sacramental graces are bestowed and functional, irrespective of the subjective disposition of the recipient"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"36. Regarding ex opere operato, how does the faith of an adult recipient of a sacrament end up being viewed as a means to salvation rather than a free gift?",
+      "answers":[
+         "The measure of saving grace effected by the sacrament is dependent on the faith as evidenced by works of the individual.",
+         "The Bible calls believers to work out our salvation with fear and trembling",
+         "Christians are called to pick up their crosses and follow Christ"
+      ],
+      "correctIndex":0,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"37. What is a scriptural evidence against the ex opere operato principle?",
+      "answers":[
+         "God made a covenant with Abraham",
+         "Paul warned the Galatians against insisting that cricumcision was necessary for true faith",
+         "God sent Amos to warn the city of Nineveh"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"38. In what way does the underlying principle of John 3:5 which says that one has to be born of water and the spirit in order to enter the kingdom of heaven differ from the principle of ex opere operato?",
+      "answers":[
+         "It was recommended by an apostle of Christ",
+         "It emphasizes the heavenly kingdom",
+         "It refers to Ezekiel where God performs the cleansing of the heart"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"39. What protestant group(s) believe(s) that baptism can be properly administered to the infants of believing parents?",
+      "answers":[
+         "Episcopalian",
+         "Lutheran",
+         "All of the above"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"40. What term best describes the infant baptism view?",
+      "answers":[
+         "Credobaptist",
+         "Anabaptist",
+         "Covenant Paedobaptism"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"41. What does baptism symbolize to proponents of paedobaptism?",
+      "answers":[
+         "It symbolizes that infants are from attacks from satan",
+         "It symbolizes that the parents are true Christians",
+         "It symbolizes that the infants are members of the Church family"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"42. In what year was the administration of bread and wine to the layperson allowed by the Vatican?",
+      "answers":[
+         "1655",
+         "1796",
+         "1964"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"43. What does consubstantiation mean?",
+      "answers":[
+         "It is the presence of the Holy Spirit in the bread during holy communion",
+         "It is God's knowledge of present and future events",
+         "It is the presence of Christ's body in with and under the bread during the Lord's supper"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"44. Which Reformer argues that the bread only symbolises Christ's body?",
+      "answers":[
+         "Martin Luther",
+         "John Calvin",
+         "Ludwig Ott"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"45. What scriptural reference supports a spiritual presence of Christ during holy communion?",
+      "answers":[
+         "John 3:12",
+         "Joshua 1:9",
+         "Matthew 18:20"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"46. For the non-Christian, what are the implications of death?",
+      "answers":[
+         "It is the end of their conscious existence",
+         "It is part of God's punishment for sin",
+         "It is the only way they can escape their sinful acts"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"47. For the Christian, what can be expected following death?",
+      "answers":[
+         "A short period of trials in purgatory to allow purification",
+         "A period of unconsciousness as they await the return of Christ",
+         "Immediate union of their soul with Christ"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"48. What verse best indicates the eternal separation between God and non-Christians after death?",
+      "answers":[
+         "Luke 16:26",
+         "Philippians 2:5",
+         "1 Corinthians 1:15"
+      ],
+      "correctIndex":0,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"49. What does the doctrine of purgatory teach?",
+      "answers":[
+         "All humans need to suffer for their sin after death",
+         "In order to enter heaven all sinners must suffer for a while in heaven",
+         "All who died under grace but not pure enough have to be purfied by suffering before entering heaven"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"50. Which of these Scriptural references proves that the doctrine of purgatory is wrong?",
+      "answers":[
+         "Ephesians 2:8-9",
+         "John 3:15",
+         "Colossians 2:1-2"
+      ],
+      "correctIndex":0,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"51. What does the doctrine of soul sleep teach?",
+      "answers":[
+         "All souls are in a state of unconsciousness after death",
+         "The souls of Chrsitans are in a state of unconsciousness after death",
+         "Only the souls of un-believers are in a state of unconsciousness after death"
+      ],
+      "correctIndex":0,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"52. Why is the view that baptism can be offered to infants of believing parents called covenant baptism?",
+      "answers":[
+         "Because it is offered to lead to infants becoming covenant members of the church",
+         "Because it causes members of the church to feel closer to each other",
+         "Because it is based on regarding infants as members of God’s covenant community"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"53. What statement does not agreee with what the Lord's supper symbolises?",
+      "answers":[
+         "It symbolises the death of Christ",
+         "It symbolises the Christian's union with Christ in Christ's death on the cross",
+         "It symbolises that the Christian is free of sin"
+      ],
+      "correctIndex":1,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"54. What does transubstantiation mean?",
+      "answers":[
+         "It is the first miraculous act by Christ in which he turned water into wine",
+         "It is the act of God when he made the earth out of nothing",
+         "It is the transformation of the wine and bread into the blood and body of Christ during holy communion"
+      ],
+      "correctIndex":2,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   },
+   {
+      "question":"55. According to the Roman Catholic Church, does the eucharist during mass account for a real single act of sacrifice by Christ?",
+      "answers":[
+         "Yes",
+         "No",
+         "Maybe"
+      ],
+      "correctIndex":0,
+      "module":3,
+      "lesson":0,
+      "feedback":""
+   }
+]

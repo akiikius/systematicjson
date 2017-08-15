@@ -597,7 +597,7 @@
       "correctIndex":0,
       "module":3,
       "lesson":0,
-      "feedback":""
+      "feedback":"Ephesians 2:8-9: (NIV) 8 For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God— 9 not by works, so that no one can boast."
    },
    {
       "question":"51. What does the doctrine of soul sleep teach?",
@@ -627,10 +627,10 @@
       "question":"53. What statement does not agreee with what the Lord's supper symbolises?",
       "answers":[
          "It symbolises the death of Christ",
-         "It symbolises the Christian's union with Christ in Christ's death on the cross",
-         "It symbolises that the Christian is free of sin"
+         "It symbolizes participation in the benefits of Christ's death",
+         "It symbolises that the Christian is sinless"
       ],
-      "correctIndex":1,
+      "correctIndex":2,
       "module":3,
       "lesson":0,
       "feedback":""
